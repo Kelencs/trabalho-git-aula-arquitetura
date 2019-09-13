@@ -1,0 +1,4 @@
+a grande vantagem de usar git é que todos podem trabalhar 
+no mesmo projeto em tempo real e a distância como home office. 
+E ainda pode ver o que pode esta errado no codigo de outros desenvolvedores 
+e dar fad back.
